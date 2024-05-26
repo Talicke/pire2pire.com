@@ -12,11 +12,9 @@
 
 * Un module doit avoir un intitulé unique.
 * Un module doit avoir un objectif pédagogique.
-* Un module doit avoir au moins un contenu textuel.
 * Un module doit avoir un ou plusieurs tags.
 * Un module possède une position définie au sein d'une formation.
-* Un module doit avoir un propriétaire.
-* Un module est composé d'un ou plusieurs leçons.
+* Un module est composé d'une ou plusieurs leçons.
 * Un module a un statut (en cours, disponible, archivé).
 
 ## Leçons
@@ -24,13 +22,12 @@
 * Une Leçon doit avoir un intitulé unique.
 * Une Leçon doit avoir une description.
 * Une Leçon doit avoir une possède une position définie au sein d'un module.
-* Une Leçon doit avoir un formateur unique.
+* Une Leçon doit avoir un auteur unique.
 * Une Leçon doit avoir au moins un contenu textuel.
 * Une Leçon doit avoir au moins une image.
 * Une Leçon doit contenir une vidéo.
 * Une Leçon doit avoir une date de création.
 * Une Leçon doit avoir une date de révision.
-* Une Leçon peut être suivi par 0 à plusieurs apprenants.
 * Une Leçon peut être valider par un apprenant pour une formation.
 * Une leçon a un statut (en cours, disponible, archivé).
 
@@ -41,7 +38,7 @@
 * Un utilisateur doit avoir un prénom.
 * Un utilisateur doit avoir une adresse.
 * Un utilisateur doit avoir une date de naissance.
-* Un utilisateur doit avoir un ou plusieurs rôles.
+* Un utilisateur doit avoir un rôles.
 
 ## Rôles
 
