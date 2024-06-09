@@ -1,5 +1,7 @@
 # Regles de Gestion
 
+Les règles de gestion sont des directives ou des contraintes définissant les opérations, les comportements et les procédures au sein d'une organisation ou d'un système. Elles assurent la conformité avec les objectifs stratégiques, les politiques et les réglementations en vigueur. Dans le contexte des systèmes d'information, les règles de gestion déterminent comment les données doivent être traitées, validées, et intégrées. Elles facilitent la prise de décision en automatisant les processus et en garantissant l'exactitude et la cohérence des données. En résumé, les règles de gestion sont essentielles pour maintenir l'ordre, l'efficacité et la conformité dans les opérations d'une organisation.
+
 ## Formations
 
 * Une formation doit avoir un intitulé unique.
@@ -84,3 +86,5 @@
 * Un tag a un ID.
 * Un tag a un intitulé.
 * Un tag peut appartenir à 0 ou plusieurs modules.
+
+[Retour au menu](../README.md)
