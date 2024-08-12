@@ -2,11 +2,26 @@
 
 ## Introduction
 
-Dans le cadre de ma certification CDA - DEVOPS, j'ai été chargé de réaliser la conception d'une base de données en utilisant la méthode MERISE. Ce repository contient la réalisation de ce projet, incluant les modèles conceptuel, logique et physique des données.
+Dans le cadre de ma certification CDA - DEVOPS, j'ai été chargé de réaliser la conception d'une base de données en utilisant la méthode MERISE. 
+Ainsi que la réalisation des diagramme UML :
+
+Ce repository contient la réalisation de ce projet, incluant :
+
+- le modèles conceptuel des données
+- le modèles logique des données
+- le modèle physique des données
+- Le diagramme de cas d'utilisation
+- Le diargramme de classe
+- Les diagrammes d'activité
+- Les Diagrammes de Séquence
 
 ## M.E.R.I.S.E
 
 Méthode d'étude et de réalisation informatique pour les systèmes d'entreprise
+
+## U.M.L
+
+L'UML (Unified Modeling Language) est un langage de modélisation visuel utilisé pour spécifier, visualiser, construire un système logiciel
 
 ## Sommaire
 
@@ -15,6 +30,10 @@ Méthode d'étude et de réalisation informatique pour les systèmes d'entrepris
 * [Modèle Conceptuel des Données (MCD)](doc/conceptual_data_model.md)
 * [Modèle Logique des Données (MLD)](doc/logical_data_model.md)
 * [Script SQL](doc/SQL.sql)
+* [Diagramme de cas d'utilisation](doc/useCase_diagram.md)
+* [Diagramme de class](doc/class_diagram.md)
+* [Diagramme d'activité](doc/activity_diagram.md)
+* [Diagramme séquence](doc/sequence_diagram.md)
 
 ## Instructions d'installation
 
